@@ -31,8 +31,6 @@ dataset/
   └── <train_id>/
       ├── some_data.npy
       └── label.npy
-  └── <test_id>/
-      └── some_data_calibrated.npy
 ```
 
 
