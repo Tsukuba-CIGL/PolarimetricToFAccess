@@ -1,17 +1,6 @@
 # Polarimetric ToF Material Classification
 
-This repository contains code and instructions for training and evaluating a **polarimetric Time-of-Flight (ToF) material classification** pipeline. By leveraging polarization features, this system aims to improve material classification performance compared to standard intensity or depth‐only methods.
-
-## Overview
-
-- **Goal**: Classify different materials using polarimetric ToF signals.
-- **Techniques**: 
-  - Polarimetric ToF imaging
-  - Feature extraction across various frequencies
-  - Dimensionality reduction (LDA, PCA, etc.)
-  - Classifiers (e.g., Linear Discriminant Analysis, SVM, etc.)
-
-This pipeline can serve as a reference implementation for researchers working with ToF‐based material classification. It includes data loading, preprocessing, classification, and visualization steps.
+This repository contains code and instructions for training and evaluating a **polarimetric Time-of-Flight (ToF) material classification** .
 
 ## Dataset
 
