@@ -23,10 +23,9 @@ dataset/
 
 - Python 3.8+  
 - NumPy  
-- SciPy  
 - scikit-learn  
 - Matplotlib  
-- Pandas (if you need to export confusion matrices or results in CSV)
+- Pandas
 
 Install dependencies:
 
