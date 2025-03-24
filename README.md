@@ -6,14 +6,10 @@ This repository contains code and instructions for training and evaluating a **p
 
 The dataset used in this project is available on Zenodo:
 
-- **Zenodo Link**: [Insert Zenodo URL Here]  
+- **Zenodo Link**: [https://zenodo.org/records/15038366]  
 - **Data Contents**:  
   - Training examples (e.g., `.npy` format)  
   - Corresponding labels (`label.npy`)  
-  - Calibrated test data  
-  - Additional metadata (if applicable)
-
-Place or symlink the dataset under a structure like:
 
 ```css
 dataset/
